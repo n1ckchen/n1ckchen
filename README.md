@@ -1,5 +1,5 @@
 
-## <div align="center">Hi, I'm Nick.👨‍💻 Software Engineer. React Developer.🚀</div>  
+## <div align="center">Hi, I'm <h1>Nick<h1>.👨‍💻 Software Engineer. React Developer.🚀</div>  
   
 
 - 🔭 I’m currently working on full stack Spotify Clone app  
