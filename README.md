@@ -1,5 +1,5 @@
 
-## <div align="center">Hi, I'm Nick. 👨‍💻 Software Engineer. React Developer🚀</div>  
+## <div align="center">Hi, I'm Nick.👨‍💻 Software Engineer. React Developer.🚀</div>  
   
 
 - 🔭 I’m currently working on full stack Spotify Clone app  
@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Next.js and AWS  
   
 
-- ❓ Ask me about anything related to react, leetcode and cats 🐱  
+- ❓ Ask me about anything related to react, leetcode and cats🐱  
   
 
 - ⚡ Fun fact: I always feed stray animals  
