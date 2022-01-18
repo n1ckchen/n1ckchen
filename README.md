@@ -1,5 +1,14 @@
 
 ## <div align="center">Hi, I'm Nick.👨‍💻 Software Engineer. React Developer.🚀</div>  
+
+<div align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/n1ckchen/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/https://n1ckchen.github.io/portfolio" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div> 
   
 
 - 🔭 I’m currently working on full stack Spotify Clone app  
@@ -12,17 +21,7 @@
   
 
 - ⚡ Fun fact: I always feed stray animals  
-
-
-
-<div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/n1ckchen/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/https://n1ckchen.github.io/portfolio" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
+ 
   
 
 <br/>  
