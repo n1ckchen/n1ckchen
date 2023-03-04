@@ -11,10 +11,10 @@
 </div> 
   
 
-- 🔭 I’m currently working on full stack Spotify Clone app  
+- 🔭 I’m currently looking for job opportunities! 
   
 
-- 🌱 I’m currently learning Next.js and AWS  
+- 🌱 I’m currently learning Java, Next.js and AWS  
   
 
 - ❓ Ask me about anything related to react, leetcode and cats🐱  
