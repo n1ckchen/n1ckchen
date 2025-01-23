@@ -14,10 +14,10 @@
 - 🔭 I’m currently looking for job opportunities! 
   
 
-- 🌱 I’m currently learning Java, Next.js and AWS  
+- 🌱 I’m currently working on Next.js 
   
 
-- ❓ Ask me about anything related to react, leetcode and cats🐱  
+- ❓ Ask me about anything related to programming, leetcode, and cats🐱  
   
 
 - ⚡ Fun fact: I always feed stray animals  
