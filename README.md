@@ -17,7 +17,7 @@
 - 🌱 I’m currently working on Next.js 
   
 
-- ❓ Ask me about anything related to programming, leetcode, and cats🐱  
+- ❓ Ask me about anything related to programming, leetcode, and pets🐱  
   
 
 - ⚡ Fun fact: I always feed stray animals  
