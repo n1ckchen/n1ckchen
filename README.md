@@ -1,5 +1,5 @@
 
-## <div align="center">Hi, I'm Nick.👨‍💻 Software Engineer. React Developer.🚀</div>  
+## <div align="center">Hi, I'm Nick.👨‍💻 Software Engineer.🚀</div>  
 
 <div align="center">
 <a href="" target="_blank">
