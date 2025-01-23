@@ -11,7 +11,7 @@
 </div> 
   
 
-- 🔭 I’m currently looking for job opportunities! 
+- 🔭 I’m always looking for new challenges and possibilities! 
   
 
 - 🌱 I’m currently working on Next.js 
